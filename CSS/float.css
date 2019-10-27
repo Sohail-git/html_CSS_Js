@@ -1,0 +1,21 @@
+.wrap {
+	width: 600px;
+	margin: auto;
+	background: yellow;
+}
+
+.content {
+	background: red;
+	float: left;
+	width: 500px;
+}
+
+aside {
+	background: brown;
+	float: left;
+}
+
+aside ul{
+	padding-left: 10px;
+	list-style: none;
+}
